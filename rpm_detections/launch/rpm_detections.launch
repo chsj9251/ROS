@@ -1,0 +1,3 @@
+<launch>
+  <node pkg="rpm_detections" type="rpm_detections.py" name="rpm_detections" output="screen"/>
+</launch>
